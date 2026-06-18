@@ -16,3 +16,4 @@ Or go to Additional Settings -> Wireless Debugging/USB Debugging
 4. in Android Studio -> Device Manager or centered top, make sure your Device name is visible
 
 
+5. Click on ▶ buttton to run it 
