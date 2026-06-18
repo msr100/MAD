@@ -1,0 +1,23 @@
+Steps :
+
+1. Click on activity_main.xml
+
+2. Go to Design View on Right side.
+
+3. Under Layout, right click on Linearlayout(vertical) to add it to Design
+
+4. Then add Text(Email), Text(password) and Button similarly under Linearlayout and make sure it forms a tree structure like this :
+
+.
+└── Linearlayout(Vertical)/
+    ├── Text(Email)
+    ├── Text(Password)
+    └── Button
+
+5. Then Click code of the activity_main.xml file and add these fields to EditText of Email and password : 
+adnroid:hint="email" and android:hint="password" respectively to get placeholders.
+
+6. Edit to android:text="Submit here" of Button
+
+
+7. Connect & Run the app.
