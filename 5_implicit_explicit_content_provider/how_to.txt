@@ -1,0 +1,20 @@
+Steps : 
+
+//Explicit intent(Opens Activity 2 in Activity 1) :
+
+1. Go to app/src/main/java/package_name. Right click on package name(com.example.a5....) and create new activity->eempty views activity.
+
+2. Name it SecondActivity click finish.
+
+3. Add a Textview in activity_second.xml saying "This is 2nd Activity"
+
+4. Run the App
+
+
+//Implicit Intent(Button redirects to google.com) :
+
+1. in activity_main.xml create a button with text "Click here"
+
+2. write onclick button fn to redirect user to google.com
+
+
