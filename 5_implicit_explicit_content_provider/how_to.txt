@@ -15,6 +15,5 @@ Steps :
 
 1. in activity_main.xml create a button with text "Click here"
 
-2. write onclick button fn to redirect user to google.com
-
+2. write onclick button fn to redirect user to google.com in MainActivity.java
 
