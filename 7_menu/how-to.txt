@@ -1,0 +1,17 @@
+Steps :
+
+1. Right click on res
+
+2. New/Android Resource Directory and name everything as menu and click OK.
+
+3. Right click on newly created menu folder, New - > Menu Resource File
+
+4. Name the file as main_menu.xml
+
+5. Drag drop 2 menu items in under menu
+
+6. Change name from Item to Setting and Camera
+
+7. Go to values/theme.xml and change from parent="Theme.Material3.DayNight.NoActionBar"> to parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+8. update code in mainactivity.java and remove the default textview in activity_main.xml
