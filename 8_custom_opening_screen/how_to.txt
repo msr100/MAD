@@ -1,0 +1,6 @@
+Steps :
+
+1. Right click on pkg name at kotlin+java/pkg name. And create New -> Activity -> Empty Views Activity and name it HomeActivity
+
+
+2. Edit activity_main.xml and activity_home and MainActivity.java
