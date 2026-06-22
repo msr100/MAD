@@ -2,7 +2,7 @@ Steps :
 
 //Explicit intent(Opens Activity 2 in Activity 1) :
 
-1. Go to app/src/main/java/package_name. Right click on package name(com.example.a5....) and create new activity->eempty views activity.
+1. Go to app/kotlin+java/package_name. Right click on package name(com.example.a5....) and create new activity->eempty views activity.
 
 2. Name it SecondActivity click finish.
 
