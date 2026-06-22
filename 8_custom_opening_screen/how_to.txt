@@ -4,3 +4,24 @@ Steps :
 
 
 2. Edit activity_main.xml and activity_home and MainActivity.java
+
+
+
+
+new Handler() → Creates a Handler object that can schedule tasks to run later.
+
+.postDelayed(...) → Tells the Handler: run this code after some delay.
+
+() -> → Lambda expression (short form of writing a function). Means "do this action".
+
+startActivity(...) → Starts/open another activity (screen).
+
+new Intent(...) → Creates an Intent, which tells Android where to go.
+
+MainActivity.this → Current activity (the screen you're on now).
+
+HomeActivity.class → Destination activity (the screen you want to open).
+
+2000 → Delay time in milliseconds.
+
+2000 ms = 2 seconds
