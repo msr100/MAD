@@ -12,6 +12,6 @@ Steps :
 
 6. Change name from Item to Setting and Camera
 
-7. Go to values/theme.xml and change from parent="Theme.Material3.DayNight.NoActionBar"> to parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+7. Go to values/theme.xml and change from parent="Theme.Material3.DayNight.NoActionBar"> to parent="Theme.MaterialComponents.DayNight.DarkActionBar"> similarly for themes.xml(night)
 
 8. update code in mainactivity.java and remove the default textview in activity_main.xml
